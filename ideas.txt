@@ -1,0 +1,31 @@
+About.me Website
+
+Choose Any Portfolio Templates, Whether Premium too........
+
+After Login With Oauth, 
+
+Fill In Rest Of Details Based On templates chosen....
+has Landing pages and autoresponder
+
+Python Projects
+1.News Updater With Voice
+2.Wallpaper Changer using Python
+3.Face Detection
+4.High Qulity YouTube Video Downloader
+5.What’s app Messenger Automation
+6.Twitter Bot
+11.GitHub Repo Automation
+12.Password Generator
+14.Files Organizer
+15.Email Sender
+20.Auto Back-Up Data With Python
+##################
+Django Projects 
+1. Bulk Email Sender 
+2. Text-to-HTML Converter 
+3. Chat Application
+4. A Safe for Passwords 5. Tweets Automator 6. Dictionary Application 7. Notes Application 8. Django Blog 9. Ecommerce Store 10. Video Calling App 11. Social Networking App 12. Interactive Maps 13. Django CMS 14. News App 15. Photo-centric App (like Pinterest) 16. Login System
+17. To-Do App 
+18. Weather App 
+19. Calorie Counter 
+20. Video Subscription App 21. Online School System 22. Library Management System 23. Railway Enquiry System 24. Quiz App 25. Web Crawler
